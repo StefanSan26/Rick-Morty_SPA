@@ -3,13 +3,13 @@ const Header = () => {
 	<div class="header-main">
 		<div class="header-logo">
 			<h1>
-				<a href="/">
+				<a href="/Rick-Morty_SPA/">
 					100tifi.co
 				</a>
 			</h1>
 		</div>
 		<div class="header-nav">
-			<a href="#/about/">
+			<a href="/Rick-Morty_SPA/#/about/">
 			About
 			</a>
 		</div>
